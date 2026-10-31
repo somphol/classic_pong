@@ -1,11 +1,13 @@
 # Classic Pong
 
+**▶ Play online: [somphol.github.io/classic_pong](https://somphol.github.io/classic_pong/)**
+
 A neon, retro-minimalist take on Pong in a single HTML file. No build step, no
 dependencies — just HTML5 Canvas and vanilla JavaScript.
 
 ![Classic Pong](screenshot.png)
 
-## Play
+## Run locally
 
 Open `index.html` in any modern browser:
 
