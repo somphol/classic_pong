@@ -1,11 +1,21 @@
+<div align="center">
+
+<img src="docs/social-card.png" alt="Classic Pong — Neon Retro Arcade" width="100%" />
+
 # Classic Pong
 
-**▶ Play online: [somphol.github.io/classic_pong](https://somphol.github.io/classic_pong/)**
+**Neon Retro Arcade**
 
-A neon, retro-minimalist take on Pong in a single HTML file. No build step, no
-dependencies — just HTML5 Canvas and vanilla JavaScript.
+A neon, retro-minimalist take on Pong in a single HTML file — just HTML5 Canvas and vanilla JavaScript.
 
-![Classic Pong](screenshot.png)
+[![Live demo](https://img.shields.io/badge/live_demo-online-22d3ee?style=flat-square)](https://somphol.github.io/classic_pong/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-22d3ee?style=flat-square)](LICENSE)
+
+**[Try it live →](https://somphol.github.io/classic_pong/)**
+
+</div>
+
+---
 
 ## Run locally
 
